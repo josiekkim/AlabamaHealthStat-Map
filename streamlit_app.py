@@ -6,7 +6,7 @@ st.set_page_config(page_title="Alabama's Top 10 Causes of Death: Race and Income
 
 # Markdown introduction
 st.markdown("""
-# ss Alabama's Top 10 Causes of Death: Analyzing the Relationship with Race and Income
+# Alabama's Top 10 Causes of Death: Analyzing the Relationship with Race and Income
 
 ## Project Overview
 
