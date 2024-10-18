@@ -67,5 +67,6 @@ st.write("### Racial Demographics and Income Correlation")
 # Placeholder for another chart
 st.write("*(Chart to be added here)*")
 
+st.write("")
 
 # https://www.alabamapublichealth.gov/healthstats/
