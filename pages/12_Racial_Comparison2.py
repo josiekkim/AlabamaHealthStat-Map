@@ -88,3 +88,7 @@ counties_map = pdk.Deck(
 )
 
 st.pydeck_chart(counties_map)
+
+st.write("""
+- **blue circle**: predominantly White population wise
+- **orange circle**: predominantly Black population wise""")
