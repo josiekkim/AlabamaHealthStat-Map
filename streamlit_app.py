@@ -54,18 +54,17 @@ Through this analysis, we expect to find:
 ---
 
 ## Visualizing the Data
-
-Below, we will display charts showing the correlations between the top causes of death, income, and racial demographics in Alabama.
+At the left column, we will display charts showing the correlations between the top causes of death, income, and racial demographics in Alabama.
 """)
 
 # Add placeholders for charts that you can later integrate with your data
 st.write("### Mortality by County and Cause of Death")
 # Placeholder for actual chart
-st.write("*(Chart to be added here)*")
+st.write("*refer back to left tabs for charts*")
 
 st.write("### Racial Demographics and Income Correlation")
 # Placeholder for another chart
-st.write("*(Chart to be added here)*")
+st.write("*refer back to left tabs for charts*")
 
 st.write("")
 
