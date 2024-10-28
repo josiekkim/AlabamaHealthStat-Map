@@ -15,6 +15,7 @@ data_race_high_income = {
     'Other (%)': [7, 7, 5, 5, 5, 4, 6, 5, 6, 5]
 }
 
+
 # Data for racial demographics in lowest-income counties
 data_race_low_income = {
     'County': ['Perry County', 'Greene County', 'Sumter County', 'Wilcox County', 'Dallas County',
